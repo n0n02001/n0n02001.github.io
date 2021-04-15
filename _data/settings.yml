@@ -6,8 +6,8 @@ logo:
 author: themefisher
 description: this is meta description
 email: backjihun17@gmail.com
-phone: +880 010 6256 3406
-address: 125/A, CA Commercial Area, California, USA
+phone: +82 010 6256 3406
+address: None
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> ■■■■■ <br> Programer & Designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
