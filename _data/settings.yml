@@ -99,6 +99,7 @@ skills:
 - {name: asd, color: '#9473e6', value: '40%'}
 - {name: After Effects, color: '#bdecf6', value: '80%'}
 - {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -119,7 +120,7 @@ education:
 # - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
 # - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
 # - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: 3-year University Certificate, date: '2021', organization: 'Cardiff School'}
+- {name: 3-year University Certificate, date: '2021', organization: 'KIMPO UNIVERSITY'}
 
 
 #-------------------------------
@@ -261,7 +262,7 @@ testimonial-items:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+    url: "http://jungsoft.co.kr/"
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
     url: "#"
