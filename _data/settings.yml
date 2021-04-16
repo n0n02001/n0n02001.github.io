@@ -261,10 +261,10 @@ testimonial-items:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "http://jungsoft.co.kr/"
+    url: "https://kmong.com/@ProjectAURA"
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+    url: "http://jungsoft.co.kr/"
 
   - logo: "assets/images/clients-logo/client-logo-3.png"
     url: "#"
