@@ -236,7 +236,7 @@ portfolio-items:
 
 
 #-------------------------------
-# Testimonials Section
+# 추천서 또는 리뷰 섹션으로 활용 Section
 
 testimonial-items:
   - name: "Jesica Gomez"
@@ -256,7 +256,7 @@ testimonial-items:
 
 
 #-------------------------------
-# Client Slider Section
+# 고객사 슬라이더 Section
 
 client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
@@ -293,4 +293,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: backjihun17@gmail.com
