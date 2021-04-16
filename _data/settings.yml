@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Test 안녕하세요. IT 개발과 디자인을 겸하여 새로운 것을 늘 학습하고 있으며, 대학생 때부터 금융 산업과 주식, 비트코인 등에 관심을 갖게 되어 해당 분야에 대한 프로그래밍과 웹 프로그래밍을 조금 경험해보았습니다.
+  Test 안녕하세요. IT 한글 폰트 변경 예정
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -77,15 +77,15 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Lee asd"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
 
-  - title : "Julias Carlie"
+  - title : "asd"
     image : "assets/images/team/member-2.png"
     designation : "Web Developer"
 
-  - title : "John Doe"
+  - title : "asd"
     image : "assets/images/team/member-3.png"
     designation : "Designer"
 
@@ -95,11 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: asd, color: '#fdb157', value: '30%'}
-- {name: asd, color: '#9473e6', value: '40%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Web Back End, color: '#fdb157', value: '20%'}
+- {name: Graphic Design, color: '#9473e6', value: '45%'}
+# - {name: After Effects, color: '#bdecf6', value: '80%'}
+# - {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
