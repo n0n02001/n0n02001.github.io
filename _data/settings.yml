@@ -97,7 +97,7 @@ skills-title: Skills
 skills:
 - {name: Web Back End, color: '#fdb157', value: '20%'}
 - {name: Graphic Design, color: '#9473e6', value: '45%'}
-# - {name: After Effects, color: '#bdecf6', value: '80%'}
+- {name: Marketing Ability, color: '#bdecf6', value: '65%'}
 # - {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
@@ -128,21 +128,21 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Graphic Design,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '한글 설명 삽입',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Coding,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '한글 설명 삽입',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Connected Services,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '한글 설명 삽입',
     active: # Add true to select section
   }
 
@@ -265,21 +265,6 @@ client-slider-items:
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
     url: "http://jungsoft.co.kr/"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
 
   - logo: "assets/images/clients-logo/client-logo-3.png"
     url: "#"
