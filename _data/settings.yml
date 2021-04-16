@@ -95,8 +95,8 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
+- {name: asd, color: '#fdb157', value: '30%'}
+- {name: asd, color: '#9473e6', value: '40%'}
 - {name: After Effects, color: '#bdecf6', value: '80%'}
 - {name: Web App, color: '#ffbcaa', value: '70%'}
 
@@ -106,9 +106,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Junior Web Developer, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'JUNGSOFT'}
+# - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+# - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+# - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
+# - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
+# - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+- {name: 3-year University Certificate, date: '2021', organization: 'Cardiff School'}
 
 
 #-------------------------------
@@ -239,10 +239,11 @@ portfolio-items:
 # 추천서 또는 리뷰 섹션으로 활용 Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "변*****"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation : "Customer, Kmong"
+    content : "감사합니다!!! 네아로 블로그보면서 이것저것 시도해보다가 막혀서 크몽의 도움을 받고자 검색해서 Project AURA 님을 찾았습니다!!! 정말 정말 주말이고 늦은 시간인데도 바로 응답해주시고 문제점 전달해 드리니까 합리적인 비용에 깔끔하게 작업 해주셨습니다! 이제 제 사이트에서 네이버로 간편로그인도 가능해진 상태 라서 너무 기분이 좋습니다!!! 카톡 로그인도 하다가 못하겠으면은 다시 찾아오겠습니다! 예약 걸어놔요!
+최고! 고민하지마시고 제 리뷰 보시고 이 분께 문의 하세요~!"
 
   - name: "Jesica Gomez"
     image: "assets/images/testimonial/client-1.png"
