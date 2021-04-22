@@ -142,7 +142,7 @@ services:
 - {
     name: Connected Services,
     icon: ti-panel,
-    description: '크몽을 통한 서비스 제공\n광고 기획 / 기획서 제작',
+    description: '크몽을 통한 서비스 제공<br/>광고 기획 / 기획서 제작',
     active: # Add true to select section
   }
 
