@@ -64,15 +64,15 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "필요한 내용에 대한 자료조사와 시장조사를 통해 해당 내용을 참고하여 업무에 대한 계획을 짜고 실행으로 옮기고 있습니다."
 
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "포토샵과 일러스트를 통해 보정작업, 합성, 제작을 할 수 있습니다."
 
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "개인 서버를 통해 업데이트 내역을 업로드 하거나 메일, 메신저로 해당 업데이트 내역을 전달합니다."
 
 
 # My Team Section
