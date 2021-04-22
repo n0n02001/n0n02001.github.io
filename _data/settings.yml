@@ -172,7 +172,7 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "DESIGN",
     type : "design"
   }
 - {
@@ -180,8 +180,8 @@ portfolio-label:
     type : "branding"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "CODING",
+    type : "coding"
   }
 
 portfolio-items:
