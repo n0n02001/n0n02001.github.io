@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-# - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-# - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
- - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
- - {name: 3-year University Certificate, date: '2021', organization: 'KIMPO UNIVERSITY'}
+ - {name: Information processing technician, date: '2015', organization: 'HRDKOREA'}
+ - {name: Computer Graphics Operators, date: '2015', organization: 'HRDKOREA'}
+ - {name: OA Master KPC Certificat, date: '2020', organization: 'KPC'}
+ - {name: 3-year University Certificate, date: '2021', organization: 'KIMPO UNIVERSITY - Programming'}
 
 
 #-------------------------------
@@ -130,19 +130,19 @@ services:
 - {
     name: Graphic Design,
     icon: ti-palette,
-    description: '한글 설명 삽입',
+    description: '포토샵 / 일러스트 디자인',
     active: # Add true to select section
   }
 - {
     name: Coding,
     icon: ti-vector,
-    description: '한글 설명 삽입',
+    description: '웹 백엔드 프로그래밍',
     active: true # Add true to select section
   }
 - {
     name: Connected Services,
     icon: ti-panel,
-    description: '한글 설명 삽입',
+    description: '광고 기획 / 기획서 제작',
     active: # Add true to select section
   }
 
