@@ -1,18 +1,17 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: 백지훈
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+안녕하세요, 전문 프로그래머를 꿈꾸는 사람입니다.
+아직까진 그렇다할 이력이 있는 것도 아니지만 할 수 있는 일을 최대한 많이 경험하려고 하고 있습니다.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+크몽을 통해서 1개의 서비스만으로 소정의 수익을 벌고 있습니다.
+이후 컨텐츠를 확보하여 서비스를 추가해볼 예정입니다.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+이 외에 기관과 업체에서의 일을 수주받아 업무를 진행하고 있습니다.
+프리랜서로 프로그래밍을 하기엔 많이 부족한 실력이긴 하나 좋은 기회를 주셔서
+최대한 열심히 기회를 잡아 공부하며 일을 하고 있습니다.

@@ -3,7 +3,7 @@
 
 title: Project AURA
 logo:
-author: themefisher
+author: 백지훈
 description: this is meta description
 email: backjihun17@gmail.com
 phone: +82 010 6256 3406
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> ■■■■■ <br> Programer & Designer
+  hero-title: Hi! I’m <br> Jihun <br> Programer & Designer
 
 social:
 # - {icon: "ti-facebook", link: "#"}
