@@ -116,8 +116,8 @@ experience:
 
 education-title: Education
 education:
- - {name: Information processing technician, date: '2015', organization: 'HRDKOREA'}
- - {name: Computer Graphics Operators, date: '2015', organization: 'HRDKOREA'}
+ - {name: Information processing technician, date: '2015', organization: 'HRDKOREA - 기능사'}
+ - {name: Computer Graphics Operators, date: '2015', organization: 'HRDKOREA - 기능사'}
  - {name: OA Master KPC Certificat, date: '2020', organization: 'KPC'}
  - {name: 3-year University Certificate, date: '2021', organization: 'KIMPO UNIVERSITY - Programming'}
 
@@ -142,7 +142,7 @@ services:
 - {
     name: Connected Services,
     icon: ti-panel,
-    description: '광고 기획 / 기획서 제작',
+    description: '크몽을 통한 서비스 제공\n광고 기획 / 기획서 제작',
     active: # Add true to select section
   }
 
