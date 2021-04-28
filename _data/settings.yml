@@ -154,7 +154,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "/2017/05/26/amazon-increase-income-1.5-million-copy-2/"
 
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
@@ -172,10 +172,6 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "DESIGN",
-    type : "design"
-  }
-- {
     title : "BRANDING",
     type : "branding"
   }
@@ -183,56 +179,38 @@ portfolio-label:
     title : "CODING",
     type : "coding"
   }
+- {
+    title : "DESIGN",
+    type : "design"
+  }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "coding"
 
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+#  - image : "assets/images/portfolio/item-2.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "branding"
 
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#  - image : "assets/images/portfolio/item-3.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+#  - image : "assets/images/portfolio/item-6.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "design"
+#      - type: "branding"
 
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+#  - image : "assets/images/portfolio/item-8.png"
+#    url: "#"
+#    portfolio-type:
+#      - type: "illustration"
 
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 
 #-------------------------------
