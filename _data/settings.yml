@@ -95,9 +95,9 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Back End, color: '#fdb157', value: '30%'}
-- {name: Graphic Design, color: '#9473e6', value: '45%'}
-- {name: Marketing, color: '#bdecf6', value: '65%'}
+- {name: Graphic Design, color: '#fdb157', value: '45%'}
+- {name: Marketing, color: '#9473e6', value: '60%'}
+- {name: Web Back End, color: '#bdecf6', value: '35%'}
 # - {name: Hungry, color: '#ffbcaa', value: '85%'}
 
 
