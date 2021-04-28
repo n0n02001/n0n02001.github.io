@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  안녕하세요, 전문 프로그래머를 꿈꾸는 사람입니다. 저의 이력 사이트에 방문해주셔서 감사합니다.
+  안녕하세요, 전문 프로그래머를 꿈꾸는 사람입니다.<br/>저의 이력 사이트에 방문해주셔서 감사합니다.<br/>더 많은 내용을 보시려면 더보기를 눌러주세요.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Back End, color: '#fdb157', value: '20%'}
+- {name: Web Back End, color: '#fdb157', value: '30%'}
 - {name: Graphic Design, color: '#9473e6', value: '45%'}
 - {name: Marketing Ability, color: '#bdecf6', value: '65%'}
-- {name: Hungry, color: '#ffbcaa', value: '85%'}
+# - {name: Hungry, color: '#ffbcaa', value: '85%'}
 
 
 #-------------------------------
