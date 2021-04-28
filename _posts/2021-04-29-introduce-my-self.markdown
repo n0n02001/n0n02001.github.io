@@ -2,7 +2,7 @@
 layout: post
 title:  전문가는 아니지만 프리랜서
 date:   2021-04-29 03:37:17 +0300
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/post-1.jpg
 author: Beak Jihun
 tags:   UX design
 ---
