@@ -4,7 +4,7 @@ title:  전문가는 아니지만 프리랜서
 date:   2021-04-29 03:37:17 +0300
 image:  /assets/images/blog/post-1.jpg
 author: Beak Jihun
-tags:   UX design
+tags:   Introduce
 ---
 
 **Hello World!, 안녕하세요. 저는 현재 전문가는 아니지만 열심히 배우며 프리랜서로 N잡을 하며 열심히 살아가고 있는 한국에 거주하는 청년입니다. 평일에는 외주와 코딩으로 주말에는 청소 아르바이트를 하며 쉬는 날 없이 하루 4~5시간 잠을 자며 힘겹게 살아가고 있습니다.**
