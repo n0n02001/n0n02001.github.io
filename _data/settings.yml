@@ -192,7 +192,7 @@ portfolio-items:
 
   - image : "assets/images/portfolio/item-2.png"
     url: "/portfolio_CM_INFO/"
-    portfolio-type: "branding","coding","design"
+    portfolio-type: "branding", "coding", "design"
 #      - type: "branding"
 
 #  - image : "assets/images/portfolio/item-3.png"
