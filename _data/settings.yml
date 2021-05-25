@@ -190,9 +190,9 @@ portfolio-items:
     portfolio-type:
      - type: "coding"
 
-#  - image : "assets/images/portfolio/item-2.png"
-#    url: "#"
-#    portfolio-type:
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
+    portfolio-type:
 #      - type: "branding"
 
 #  - image : "assets/images/portfolio/item-3.png"
