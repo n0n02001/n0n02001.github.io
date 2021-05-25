@@ -154,10 +154,10 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "/2017/05/26/amazon-increase-income-1.5-million-copy-2/"
+    url: "#"
 
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "/portfolio_CM_INFO//"
 
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
@@ -192,7 +192,7 @@ portfolio-items:
 
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
-    portfolio-type:
+    portfolio-type: "branding","coding","design"
 #      - type: "branding"
 
 #  - image : "assets/images/portfolio/item-3.png"
