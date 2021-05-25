@@ -157,7 +157,7 @@ portfolio-home-items:
     url: "#"
 
   - image : "assets/images/portfolio/item-2.png"
-    url: "/portfolio_CM_INFO//"
+    url: "/portfolio_CM_INFO/"
 
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
