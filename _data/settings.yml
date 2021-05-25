@@ -191,7 +191,7 @@ portfolio-items:
      - type: "coding"
 
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "/portfolio_CM_INFO/"
     portfolio-type: "branding","coding","design"
 #      - type: "branding"
 
