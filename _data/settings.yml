@@ -157,13 +157,13 @@ portfolio-home-items:
     url: "#_posts/portfolio_CMS_SKKU.markdown.html"
 
   - image : "assets/images/portfolio/item-2.png"
-    url: "n0n02001.github.io/_posts/portfolio_CMS_SKKU.html"
+    url: "https://n0n02001.github.io/_posts/portfolio_CMS_SKKU.html"
 
   - image : "assets/images/portfolio/item-3.png"
     url: "/_posts/portfolio_CMS_SKKU.html"
 
   - image : "assets/images/portfolio/item-4.png"
-    url: "#n0n02001.github.io/_posts/portfolio_CMS_SKKU.html"
+    url: "#https://n0n02001.github.io/_posts/portfolio_CMS_SKKU.html"
 
   - image : "assets/images/portfolio/item-5.png"
     url: "#a"
