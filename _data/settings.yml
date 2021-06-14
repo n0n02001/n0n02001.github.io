@@ -154,16 +154,16 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#portfolio_CMS_SKKU"
+    url: "#_posts\portfolio_CMS_SKKU.markdown"
 
   - image : "assets/images/portfolio/item-2.png"
-    url: " #"
+    url: "n0n02001.github.io\_posts\portfolio_CMS_SKKU.markdown"
 
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "\_posts\portfolio_CMS_SKKU.markdown"
 
   - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "#n0n02001.github.io\_posts\portfolio_CMS_SKKU.markdown"
 
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
