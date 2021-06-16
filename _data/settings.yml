@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome!<br>I’m Back <br>I’m Hard Worker!
+  hero-title: Welcome!<br>I’m Back <br>Hard Worker!
 
 social:
 # - {icon: "ti-facebook", link: "#"}
@@ -77,9 +77,9 @@ work-process:
 
 # My Team Section
 team:
-  - title : "None"
+  - title : "정춘식"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Director Of The Institute"
 
   - title : "None"
     image : "assets/images/team/member-2.png"
