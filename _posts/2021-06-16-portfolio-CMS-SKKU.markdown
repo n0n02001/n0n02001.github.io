@@ -2,7 +2,7 @@
 layout: post
 title:  SKKU CMS Development Experience
 date:   2021-06-16 11:35:55 +0300
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/post-2.jpg
 author: Beak Jihun
 tags:   protfolio
 ---
@@ -12,6 +12,10 @@ tags:   protfolio
 개발 기간 : 2021-02-24~2021-04-16  
 개발 환경 : Egovframework, HTML, Java  
 개발 부분 : 베너관리 CRUD / 메뉴관리 CRUD  
+
+  
+
+
 
 > 해당 개발 사실 관계에 대한 법적 경력 인증서를 보유하고 있습니다.
 
