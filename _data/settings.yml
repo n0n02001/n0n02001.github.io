@@ -95,8 +95,8 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Graphic Design, color: '#fdb157', value: '45%'}
-- {name: Marketing, color: '#9473e6', value: '60%'}
+- {name: Graphic Design, color: '#fdb157', value: '30%'}
+- {name: Marketing, color: '#9473e6', value: '50%'}
 - {name: Web Back End, color: '#bdecf6', value: '35%'}
 # - {name: Hungry, color: '#ffbcaa', value: '85%'}
 
@@ -130,7 +130,8 @@ services:
 - {
     name: Graphic Design,
     icon: ti-palette,
-    description: '포토샵 / 일러스트 디자인',
+    description: '포토샵 / 일러 디자인<br>
+                  asdasd',
     active: # Add true to select section
   }
 - {
