@@ -157,7 +157,7 @@ portfolio-home-items:
     url: ""
 
   - image : "assets/images/portfolio/item-2.png"
-    url: ""
+    url: "https://n0n02001.github.io/2021/06/16/portfolio-CMS-SKKU/"
 
   - image : "assets/images/portfolio/item-3.png"
     url: ""
@@ -191,11 +191,9 @@ portfolio-items:
      - type: "coding"
 
   - image : "assets/images/portfolio/item-2.png"
-    url: "/portfolio_CMS_SKKU/"
+    url: "https://n0n02001.github.io/2021/06/16/portfolio-CMS-SKKU//"
     portfolio-type:
-      - type: "branding"
       - type: "coding"
-      - type: "design"
 
 #  - image : "assets/images/portfolio/item-3.png"
 #    url: "#"
