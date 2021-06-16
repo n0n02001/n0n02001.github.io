@@ -131,19 +131,24 @@ services:
     name: Graphic Design,
     icon: ti-palette,
     description: '포토샵 / 일러 디자인<br>
-                  asdasd',
+                  로고 리터칭 및 제작,<br>
+                  상품 상세 페이지 제작,<br>
+                  블로그 배경 이미지 제작<br>',
     active: # Add true to select section
   }
 - {
     name: Coding,
     icon: ti-vector,
-    description: '웹 백엔드 프로그래밍',
-    active: true # Add true to select section
+    description: '웹 백엔드 프로그래밍<br>
+                  Java, Django, Egov 등',
+    active: true # Add true to select section 이거 트루하면 색깔 활성화됨. 아마두
   }
 - {
     name: Connected Services,
     icon: ti-panel,
-    description: '크몽을 통한 서비스 제공<br/>광고 기획 / 기획서 제작',
+    description: '크몽을 통한 서비스 제공<br>
+                  개인 쇼핑몰 사이트 보완,<br>
+                  웹 개발 관련 서비스<br>',
     active: # Add true to select section
   }
 
