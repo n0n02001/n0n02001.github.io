@@ -20,18 +20,27 @@ tags:   Protfolio
 
 ![](/assets/images/blog/post-2_1.jpg)
 
-SKKU 센터 관리자 페이지에서의 메뉴관리 부분을 DB와 연동하여, 출력, create, update, delete, 순서 관리 등의 기능을 구현하였습니다.  
+SKKU 센터 관리자 페이지에서의 메뉴관리 부분을 DB와 연동하여, 출력, CREATE, UPDATE, DELETE, 순서 관리 등의 기능을 구현하였습니다.  
 
-1차, 2차, 3차 등의 메뉴 특성에 맞추어 화면에 출력되어야 하는 조건도 있었습니다.
+1차, 2차, 3차 등의 메뉴 종속관계에 맞추어 화면에 출력되어야 하는 조건도 있었습니다.
 
 ![](/assets/images/blog/post-2_2.jpg)
 
-SKKU 센터 관리자 페이지에서의 메뉴관리 부분을 DB와 연동하여, 출력, create, update, delete, 순서 관리 등의 기능을 구현하였습니다.  
-
-1차, 2차, 3차 등의 메뉴 특성에 맞추어 화면에 출력되어야 하는 조건도 있었습니다.
+텍스트 및 이미지 첨부 등의 데이터를 DB에 CREATE / UPDATE
 
 ![](/assets/images/blog/post-2_3.jpg)
 
-SKKU 센터 관리자 페이지에서의 메뉴관리 부분을 DB와 연동하여, 출력, create, update, delete, 순서 관리 등의 기능을 구현하였습니다.  
+2차, 3차 메뉴에서 부터 다른 입력 형식 지원 (URL/IMG첨부/HTML폼 입력)
 
-1차, 2차, 3차 등의 메뉴 특성에 맞추어 화면에 출력되어야 하는 조건도 있었습니다.
+![](/assets/images/blog/post-2_4.jpg)
+
+메뉴 등급에 따른 종속 관계에 따라 선택된 메뉴의 하위 메뉴들이 출력되어 메뉴의 순서를 지정해주는 기능 구현
+
+
+![](/assets/images/blog/post-2_6.jpg)
+
+디자인 베너 관리 부분의 리스팅 및 미리보기 지원
+
+![](/assets/images/blog/post-2_7.jpg)
+
+베너 위치에 따른 다른 입력 형식 지원
