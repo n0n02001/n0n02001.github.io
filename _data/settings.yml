@@ -185,10 +185,10 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: ""
-    portfolio-type:
-     - type: "coding"
+#  - image : "assets/images/portfolio/item-1.png"
+#    url: ""
+#    portfolio-type:
+#     - type: "coding"
 
   - image : "assets/images/portfolio/item-2.png"
     url: "https://n0n02001.github.io/2021/06/16/portfolio-CMS-SKKU//"
