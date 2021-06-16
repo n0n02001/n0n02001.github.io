@@ -22,11 +22,11 @@ tags:   Protfolio
 
 SKKU 센터 관리자 페이지에서의 메뉴관리 부분을 DB와 연동하여, 출력, CREATE, UPDATE, DELETE, 순서 관리 등의 기능을 구현하였습니다.  
 
-1차, 2차, 3차 등의 메뉴 종속관계에 맞추어 화면에 출력되어야 하는 조건도 있었습니다.
+1차, 2차, 3차 등의 메뉴 종속관계에 맞추어 화면에 출력
 
 ![](/assets/images/blog/post-2_2.jpg)
 
-텍스트 및 이미지 첨부 등의 데이터를 DB에 CREATE / UPDATE
+텍스트 및 이미지 첨부 등의 데이터를 DB에 CREATE / UPDATE 기능
 
 ![](/assets/images/blog/post-2_3.jpg)
 
