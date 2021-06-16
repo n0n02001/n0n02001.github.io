@@ -30,7 +30,7 @@ SKKU 센터 관리자 페이지에서의 메뉴관리 부분을 DB와 연동하�
 
 ![](/assets/images/blog/post-2_3.jpg)
 
-2차, 3차 메뉴에서 부터 다른 입력 형식 지원 (URL/IMG첨부/HTML폼 입력)
+2차, 3차 메뉴에서부터 다른 입력 형식 지원 (URL/IMG첨부/HTML폼 입력)
 
 ![](/assets/images/blog/post-2_4.jpg)
 
