@@ -154,7 +154,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "https://n0n02001.github.io/protfolio/portfolio_CMS_SKKU/"
+    url: ""
 
   - image : "assets/images/portfolio/item-2.png"
     url: ""
@@ -186,7 +186,7 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "https://n0n02001.github.io/protfolio/portfolio_CMS_SKKU/"
+    url: ""
     portfolio-type:
      - type: "coding"
 
