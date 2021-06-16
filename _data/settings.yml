@@ -147,7 +147,7 @@ services:
     name: Connected Services,
     icon: ti-panel,
     description: '크몽을 통한 서비스 제공<br>
-                  개인 쇼핑몰 사이트 보완,<br>
+                  개인 쇼핑몰 기능 보완,<br>
                   웹 개발 관련 서비스<br>',
     active: # Add true to select section
   }
