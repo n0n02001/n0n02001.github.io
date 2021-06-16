@@ -1,5 +1,5 @@
 ---
-layout: Portfolio
+layout: post
 title:  SKKU CMS Development Experience
 date:   2021-06-16 11:35:55 +0300
 image:  /assets/images/blog/post-5.jpg
