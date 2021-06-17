@@ -11,7 +11,7 @@ tags:   BRANDING
 
 정소프트의 소식을 빠르게 만나보실 수 있는 공식 블로그를 오픈하였습니다.  
 
-정소프트 공식 블로그 : https://blog.naver.com/jungsoft2016  
+정소프트 공식 블로그 : https://blog.naver.com/jungsoft2016<https://blog.naver.com/jungsoft2016>  
 담당 업무 : 블로그 콘텐츠 관리 및 디자인 관리 (전체 총괄)  
 
 오늘날의 마케팅의 방식과 종류는 다양합니다.  
