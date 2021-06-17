@@ -12,7 +12,7 @@ tags:   Protfolio
 개발 기간 : 2021년 02월 24일 ~ 2021년 04월 16일  
 개발 환경 : Egovframework, HTML, Java  
 담당 업무 : [Back-End] 베너관리 CRUD / 메뉴관리 CRUD  
-참조 링크 : http://cihe.skku.edu/
+참조 링크 : <http://cihe.skku.edu/>
 <br/>  
 <br/>  
 <br/>
