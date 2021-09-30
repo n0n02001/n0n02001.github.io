@@ -206,16 +206,16 @@ portfolio-items:
     portfolio-type:
       - type: "branding"
 
-#  - image : "assets/images/portfolio/item-6.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "design"
-#      - type: "branding"
+ - image : "assets/images/portfolio/item-4.png"
+   url: "https://n0n02001.github.io/2021/06/16/portfolio-Blog-Marketing-Jungsoft/"
+   portfolio-type:
+     - type: "development"
 
 #  - image : "assets/images/portfolio/item-8.png"
 #    url: "#"
 #    portfolio-type:
-#      - type: "illustration"
+#      - type: "design"
+#      - type: "branding"
 
 
 
