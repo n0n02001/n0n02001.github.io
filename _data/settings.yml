@@ -166,10 +166,10 @@ portfolio-home-items:
     url: "https://n0n02001.github.io/2021/06/16/portfolio-CMS-SKKU/"
 
   - image : "assets/images/portfolio/item-3.png"
-    url: "https://n0n02001.github.io/2021/10/01/portfolio-WEB-STBIO/"
+    url: "https://n0n02001.github.io/2021/09/30/portfolio-WEB-STBIO/"
 
   - image : "assets/images/portfolio/item-4.png"
-    url: "https://n0n02001.github.io/2021/10/01/portfolio-WEBD-LG/"
+    url: "https://n0n02001.github.io/2021/09/30/portfolio-WEBD-LG/"
 
   - image : "assets/images/portfolio/item-5.png"
     url: ""
@@ -202,12 +202,12 @@ portfolio-items:
       - type: "development"
 
   - image : "assets/images/portfolio/item-3.png"
-    url: "https://n0n02001.github.io/2021/10/01/portfolio-WEB-STBIO/"
+    url: "https://n0n02001.github.io/2021/09/30/portfolio-WEB-STBIO/"
     portfolio-type:
       - type: "development"
 
   - image : "assets/images/portfolio/item-4.png"
-    url: "https://n0n02001.github.io/2021/10/01/portfolio-WEBD-LG/"
+    url: "https://n0n02001.github.io/2021/09/30/portfolio-WEBD-LG/"
     portfolio-type:
       - type: "development"
 
