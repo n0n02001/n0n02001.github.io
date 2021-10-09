@@ -10,8 +10,8 @@ tags:   Protfolio
 > LG SINGLEX WEB PUBLISHING
 
 개발 기간 : 2021년 08월 05일 ~ (마감 시, 수정)  
-개발 환경 : 보안 사항 (논의중) <br/>
-담당 업무 : 보안 사항 (논의중) <br/>
+개발 환경 : 보안 사항 (TBA) <br/>
+담당 업무 : 보안 사항 (TBA) <br/>
 <!-- 참조 링크 : <http://cihe.skku.edu/> -->
 <br/>  
 <br/>  
