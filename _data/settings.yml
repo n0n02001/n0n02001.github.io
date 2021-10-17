@@ -195,6 +195,7 @@ portfolio-items:
 #    url: ""
 #    portfolio-type:
 #     - type: "coding"
+#     - type: "design"
 
   - image : "assets/images/portfolio/item-2.png"
     url: "https://n0n02001.github.io/2021/06/16/portfolio-CMS-SKKU//"
@@ -211,11 +212,10 @@ portfolio-items:
     portfolio-type:
       - type: "design"
 
-#  - image : "assets/images/portfolio/item-8.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "design"
-#      - type: "branding"
+ - image : "assets/images/portfolio/blog_item-1.png"
+   url: "https://n0n02001.github.io/2021/06/16/portfolio-Blog-Marketing-Jungsoft/"
+   portfolio-type:
+     - type: "branding"
 
 
 
