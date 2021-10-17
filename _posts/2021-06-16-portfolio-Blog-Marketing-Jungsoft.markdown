@@ -4,7 +4,7 @@ title:  JUNGSOFT Blog Marketing
 date:   2021-06-16 19:13:55 +0300
 image:  /assets/images/portfolio/blog_item-1.png
 author: Beak Jihun
-tags:   BRANDING
+tags:   Protfolio
 ---
 
 > 정소프트 공식 블로그 오픈!
