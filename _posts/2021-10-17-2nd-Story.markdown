@@ -2,7 +2,7 @@
 layout: post
 title:  2021년을 미리 마무리하며...
 date:   2021-10-17 19:13:55 +0300
-image:  /assets/images/portfolio/blog_item-1.png
+image:  /assets/images/blog/post-7.jpg
 author: Beak Jihun
 tags:   blog
 ---

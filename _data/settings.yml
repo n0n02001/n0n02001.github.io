@@ -212,7 +212,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
 
-  - image : "assets/images/portfolio/blog_item-1.png"
+  - image : "assets/images/blog/post-3.png"
     url: "https://n0n02001.github.io/2021/06/16/portfolio-Blog-Marketing-Jungsoft/"
     portfolio-type:
       - type: "branding"
