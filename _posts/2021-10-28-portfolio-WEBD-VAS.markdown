@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hortizen (VAS) Publishing Experience
-date:   2021-10-29 00:50:40 +0300
+date:   2021-10-28 00:50:40 +0300
 image:  /assets/images/blog/post-6.jpg
 author: Beak Jihun
 tags:   Protfolio
