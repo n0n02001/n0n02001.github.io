@@ -172,7 +172,7 @@ portfolio-home-items:
     url: "https://n0n02001.github.io/2021/09/30/portfolio-WEBD-LG/"
 
   - image : "assets/images/portfolio/item-6.png"
-    url: "https://n0n02001.github.io/2021/10/29/portfolio-WEBD-VAS/"
+    url: "https://n0n02001.github.io/2021/10/28/portfolio-WEBD-VAS/"
 
 
 # Portfolio Page
@@ -218,7 +218,7 @@ portfolio-items:
       - type: "branding"
 
   - image : "assets/images/portfolio/item-6.png"
-    url: "https://n0n02001.github.io/2021/10/29/portfolio-WEBD-VAS/"
+    url: "https://n0n02001.github.io/2021/10/28/portfolio-WEBD-VAS/"
     portfolio-type:
       - type: "design"
 
