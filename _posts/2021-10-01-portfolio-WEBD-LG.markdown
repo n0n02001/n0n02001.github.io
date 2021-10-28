@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  LG SINGLEX Publishing Experience
-date:   2021-10-01 00:46:48 +0300
+date:   2021-10-01 03:46:48 +0300
 image:  /assets/images/blog/post-5.jpg
 author: Beak Jihun
 tags:   Protfolio
