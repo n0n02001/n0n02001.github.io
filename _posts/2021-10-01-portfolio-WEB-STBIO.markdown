@@ -9,7 +9,7 @@ tags:   Protfolio
 
 > 신테카 바이오 API 개발 및 유지보수
 
-개발 기간 : 2021년 05월 01일 ~ 2021년 09월 30일
+개발 기간 : 2021년 05월 01일 ~ 2021년 09월 30일 <br/>
 개발 환경 : Django, MariaDB, MongoDB <br/>
 담당 업무 : ADMIN, USER, PREVIEW 등 <br/>
 설계에 따른 API 기능 개발 및 유지보수  
