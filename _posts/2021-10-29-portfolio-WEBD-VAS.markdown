@@ -7,10 +7,10 @@ author: Beak Jihun
 tags:   Protfolio
 ---
 
-> 신테카 바이오 API 개발 및 유지보수
+> 호티젠 영상분석 시스템 웹 퍼블리싱
 
-개발 기간 : 2021년 잠시만 기억이 안낭...  
-개발 환경 : 기달디갈 <br/>
+개발 기간 : 2021년 08월 14일 ~ 2021년 11월 30일
+개발 환경 : HTML, Java, JavaScript, Draw2D <br/>
 담당 업무 : 웹 퍼블리싱, 전체 디자인  
 <!-- 참조 링크 : <http://cihe.skku.edu/> -->
 <br/>  
