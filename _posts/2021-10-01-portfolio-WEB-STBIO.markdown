@@ -25,12 +25,12 @@ tags:   Protfolio
 
 ![](/assets/images/blog/post-4_2.jpg)
 
-ㅁ
+ADMIN / USER / PREVIEW의 데이터 분석 및 연계된 테이블의 데이터를 필터하여 불러오거나 각 CRUD 시 연계된 테이블에서의 데이터 처리를 주로 하였습니다.
 
 ![](/assets/images/blog/post-4_3.jpg)
 
-ㅁㅁ
+2가지의 DB(MariaDB / MongoDB)를 활용하여 구축하게 되었습니다.
 
 ![](/assets/images/blog/post-4_4.jpg)
 
-ㅁㅁ
+기능 구현 검수 및 테스트 후, 웹서버에 배포하여 소켓 통신을 통해 테스트하여 반영을 확인하였습니다.
