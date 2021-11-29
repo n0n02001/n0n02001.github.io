@@ -21,8 +21,16 @@ tags:   Protfolio
 
 ![](/assets/images/blog/post-4_1.jpg)
 
+신테카바이오의 웹 사이트에서 파이썬 기반의 API에 기능 추가 및 유지보수 작업을 맡게 되었습니다.
+
 ![](/assets/images/blog/post-4_2.jpg)
+
+ㅁ
 
 ![](/assets/images/blog/post-4_3.jpg)
 
+ㅁㅁ
+
 ![](/assets/images/blog/post-4_4.jpg)
+
+ㅁㅁ
