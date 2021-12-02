@@ -222,6 +222,11 @@ portfolio-items:
     portfolio-type:
       - type: "design"
 
+  - image : "assets/images/portfolio/item-7.png"
+    url: "https://n0n02001.github.io/2021/12/31/portfolio-WEB-KoFONS/"
+    portfolio-type:
+      - type: "development"
+
 
 
 #-------------------------------
